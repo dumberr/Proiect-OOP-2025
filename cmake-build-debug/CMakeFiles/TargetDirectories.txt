@@ -1,0 +1,3 @@
+C:/Users/Rares/Desktop/STARREACHER/cmake-build-debug/CMakeFiles/STARREACHER.dir
+C:/Users/Rares/Desktop/STARREACHER/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rares/Desktop/STARREACHER/cmake-build-debug/CMakeFiles/rebuild_cache.dir

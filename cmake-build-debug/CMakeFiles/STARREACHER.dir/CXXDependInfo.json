@@ -1,0 +1,56 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/Rares/Desktop/STARREACHER/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Rares/Desktop/STARREACHER",
+	"dir-top-bld" : "C:/Users/Rares/Desktop/STARREACHER/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Rares/Desktop/STARREACHER",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\Rares\\vcpkg\\installed\\x64-windows\\include",
+		"C:\\Users\\Rares\\vcpkg\\installed\\x64-windows\\include\\SDL2"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Rares/Desktop/STARREACHER/cmake-build-debug/CMakeFiles/STARREACHER.dir",
+	"sources" : 
+	{
+		"CMakeFiles/STARREACHER.dir/src/Ecran.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Rares/Desktop/STARREACHER/src/Ecran.cpp"
+		},
+		"CMakeFiles/STARREACHER.dir/src/Enemy.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Rares/Desktop/STARREACHER/src/Enemy.cpp"
+		},
+		"CMakeFiles/STARREACHER.dir/src/Entity.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Rares/Desktop/STARREACHER/src/Entity.cpp"
+		},
+		"CMakeFiles/STARREACHER.dir/src/Player.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Rares/Desktop/STARREACHER/src/Player.cpp"
+		},
+		"CMakeFiles/STARREACHER.dir/src/Texture.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Rares/Desktop/STARREACHER/src/Texture.cpp"
+		},
+		"CMakeFiles/STARREACHER.dir/src/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Rares/Desktop/STARREACHER/src/main.cpp"
+		}
+	}
+}

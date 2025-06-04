@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\STARREACHER.dir\\src\\Enemy.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Rares\\Desktop\\STARREACHER\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\STARREACHER.dir\\src\\Enemy.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

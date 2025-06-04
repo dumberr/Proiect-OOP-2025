@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\STARREACHER.dir\src\main.cpp.obj: dyndep
+
+build CMakeFiles\STARREACHER.dir\src\Entity.cpp.obj: dyndep
+
+build CMakeFiles\STARREACHER.dir\src\Player.cpp.obj: dyndep
+
+build CMakeFiles\STARREACHER.dir\src\Enemy.cpp.obj: dyndep
+
+build CMakeFiles\STARREACHER.dir\src\Texture.cpp.obj: dyndep
+
+build CMakeFiles\STARREACHER.dir\src\Ecran.cpp.obj: dyndep
+
